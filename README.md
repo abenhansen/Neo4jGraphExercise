@@ -35,5 +35,4 @@
   11. Helped doesnt exist as a propety on any relation in the movie DB?
       
   12. Helped doesnt exist as a propety on any relation in the movie DB?
-   
-"# Neo4jGraphExercise" 
+
